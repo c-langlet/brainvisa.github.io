@@ -1,6 +1,5 @@
 ---
 title: BrainVISA developers' website
-layout: home
 ---
 
 # {{page.title}}
@@ -14,7 +13,7 @@ layout: home
 BrainVISA contains a set of projects, each project may be divided into several components. About 50 components are currently part of the BrainVISA environment.
 
 ### casa-distro:
-
+  
 Development, distribution infrastructure in a containerized environment (using Singularity or VirtualBox). Used to install BrainVisa, or install a developer environment, as explained in [BrainVisa download page](https://brainvisa.info/web/download.html).
 
 * [Stable doc](https://brainvisa.info/casa-distro/index.html)
